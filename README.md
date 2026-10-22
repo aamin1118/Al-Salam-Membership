@@ -3,7 +3,9 @@
 <title>Membership Operations One-Pager</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<a href="onepager.html">Membership Operations One Pager</a>
 <a href="blueprint.html">Membership Blueprint</a>
+
 <style>
 :root{--g:#005931;--gold:#D3AE49;--bg:#fff;--ink:#1c2b24;--mut:#5c6b64;--line:#e3e8e5;--soft:#f4f7f5}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#101a15;--ink:#e8efeb;--mut:#9fb0a7;--line:#27372f;--soft:#17241d;--g:#4fb386}}
