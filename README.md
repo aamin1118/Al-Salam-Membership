@@ -33,8 +33,8 @@ ul{padding-left:20px}li{margin:4px 0}
 <h1>Al Salam Membership Process</h1>
 <p class="lede">For the election and membership committee. Updated October 21, 2026.</p>
 <nav class="list">
-<a href="https://claude.ai/artifact/UE6m3Xfs29N8RMRVcjrYJX">Membership One-Pager</a>
-<a href="https://claude.ai/artifact/UxSYRnBe289LBBqShKU9N3">Membership Operations Blueprint</a>
+<a href="1pager.html">Membership One-Pager</a>
+<a href="blueprint.html">Membership Operations Blueprint</a>
 <a href="https://claude.ai/artifact/J6hLruuQ4mYEnGefvBEXaT">Membership Forms</a>
 <a href="https://claude.ai/artifact/81ugS6LXoaGcPRdoJF6VAp">Membership Repository</a>
 </nav>
